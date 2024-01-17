@@ -20,9 +20,9 @@ Green Onion | 6
      1. Stem, seed, remove ribs, and cut red bell pepper into 1/4" dice.
      2. Drain pineapple and halve pieces.
      3. Trim and mince white portions of green onions. Thinly slice green portions on an angle. Keep white and green portions separate.
-1. Place a large non-stick pan over medium-high heat and add 2 tsp. olive oil. Add pineapple to hot pan and cook undisturbed until lightly charred, 2-4 minutes.
+1. Place a large non-stick pan over medium-high heat and add 6 tsp. olive oil. Add pineapple to hot pan and cook undisturbed until lightly charred, 2-4 minutes.
      1. Transfer pineapple to a plate.
-1. Return pan used to cook pineapple to medium-high heat and add 2 tsp. olive oil. Add red bell pepper to hot pan and cook until starting to soften, 2-3 minutes.
+1. Return pan used to cook pineapple to medium-high heat and add 6 tsp. olive oil. Add red bell pepper to hot pan and cook until starting to soften, 2-3 minutes.
 2. Add ground pork, BBQ spice rub, and 1/4 tsp. salt. Stir often, breaking up meat, until no pink remains and pork reaches a minimum internal temperature of 160 degrees, 4-5 minutes.
 3. Stir in BBQ sauce until sauce coats pork, 1-2 minutes.
 4. In a mixing bowl, combine sour cream, Asian garlic and ginger seasoning, white portions of green onions, and a pinch of salt.
