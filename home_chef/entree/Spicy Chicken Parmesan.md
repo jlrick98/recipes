@@ -1,6 +1,8 @@
 # Spicy Chicken Parmesan
 ![](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F16474%2F322050.001.01SpicyChickenParmesan_Ecomm_1_of_1_.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=9a3edd94e16ddbac686d2b53e6e1a315)
 
+[Meal Link](https://www.homechef.com/meals/spicy-chicken-parmesan)
+
 ## Ingredients
 | Ingredient | Amount |
 ---|---
