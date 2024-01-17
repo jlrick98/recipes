@@ -31,12 +31,12 @@ Light Cream Cheese | 3 oz.
 9. PLATE! Place chicken on shallot cream
 
 ## Nutrition (including green beans)
-Calories: 610
-Carbohydrates: 30g
-Net Carbs: 25g
-Fat: 34g
-Protein: 46g
-Sodium: 1620mg
+Calories: 610<br>
+Carbohydrates: 30g<br>
+Net Carbs: 25g<br>
+Fat: 34g<br>
+Protein: 46g<br>
+Sodium: 1620mg<br>
 
 ## Pairs with
 1. Green Beans
