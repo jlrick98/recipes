@@ -23,5 +23,13 @@ Boneless Skinless Chicken Breasts | 36 oz.
 7. Remove to towel-lined plate and season with 1/4 tsp. salt and a pinch of pepper. Let sit, 2 minutes.
 8. Transfer chicken to empty space on baking sheet. Top evenly with marinara-red pepper flakes mixture and mozzarella
 
+## Nutrition (With Zucchini)
+Calories: 610
+Carbohydrates: 19g
+Net Carbs: 16g
+Fat: 38g
+Protein: 50g
+Sodium: 1710mg
+
 ## Pairs with
 1. Cirspy Zucchini (side)
