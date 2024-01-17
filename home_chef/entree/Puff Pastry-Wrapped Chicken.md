@@ -1,5 +1,5 @@
 # Puff Pastry-Wrapped Chicken
-[](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F23521%2F373972.004.01PuffPastryWrappedChicken_Ecomm1.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a5ee00640b151e4f1191228e339445c1)
+![](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F23521%2F373972.004.01PuffPastryWrappedChicken_Ecomm1.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a5ee00640b151e4f1191228e339445c1)
 
 ## Ingredients
 | Ingredient | Amount |
