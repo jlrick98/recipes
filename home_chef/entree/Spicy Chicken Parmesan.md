@@ -32,4 +32,4 @@ Protein: 50g
 Sodium: 1710mg
 
 ## Pairs with
-1. Cirspy Zucchini (side)
+1. [Cirspy Zucchini](https://github.com/jlrick98/recipes/blob/main/home_chef/sides/crispy%20zucchini.md)
