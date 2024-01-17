@@ -1,5 +1,6 @@
 # Maui-Style Pork Tostadas with ginger-garlic sour cream and red pepper
-![](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F24909%2F_005618.006.01Maui-StylePorkTostadas_Ecomm_3_of_13_.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a0a29a57d951d1c9b9395dc630d468ed)
+![](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F21428%2F005618.004.01Maui-StylePorkTostadas_Ecomm_1_of_1_.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=be8aef3f5e1e588d0a15f26bcc044219)
+[Meal Link](https://www.homechef.com/meals/maui-style-pork-tostadas-standard)
 
 ## Ingredients
 | Ingredient | Amount |
