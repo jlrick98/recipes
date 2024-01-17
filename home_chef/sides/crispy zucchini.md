@@ -17,4 +17,4 @@ Shredded Parmesan Cheese | 1 oz.
 5. Spread into a single layer on one side and top evenly with Parmesan-panko mixture. Bake in hot oven, 15 minutes.
 
 ## Pairs With
-1. Spicy Chicken Parmesan
+1. Spicy Chicken Parmesan (entree)
