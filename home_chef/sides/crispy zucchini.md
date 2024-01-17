@@ -15,3 +15,6 @@ Shredded Parmesan Cheese | 1 oz.
 3. Combine the panko and Parmesan in a mixing bowl. Set aside.
 4. Place zucchini on prepared baking sheet and toss with 1 tsp. olive oil, garlic salt, and a pinch of pepper. Massage oil, garlic salt, and pepper into zucchini.
 5. Spread into a single layer on one side and top evenly with Parmesan-panko mixture. Bake in hot oven, 15 minutes.
+
+## Pairs With
+1. Spicy Chicken Parmesan
