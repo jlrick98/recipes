@@ -1,6 +1,5 @@
 # Puff Pastry-Wrapped Chicken
-![Alt text](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F23521%2F373972.004.01PuffPastryWrappedChicken_Ecomm1.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a5ee00640b151e4f1191228e339445c1)
-
+[](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F23521%2F373972.004.01PuffPastryWrappedChicken_Ecomm1.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a5ee00640b151e4f1191228e339445c1)
 
 ## Ingredients
 | Ingredient | Amount |
@@ -22,3 +21,7 @@ Green Beans | 36 oz.
      1. Peel and mince the shallot.
      2. Trim ends off green beans, if necessary, and halve.
      3. Remove puff pastry from refrigerator. Using the tip of a knife, draw diagonal lines on pastry, about 1/2" apart. Draw another set of diagonal lines crosswise from the first, forming a crosshatch. This is called scoring. Halve pastry diagonally and refrigerate again.
+1. Place a medium non-stick pan over medium-high heat and add 1 tsp. olive oil. Add chicken to hot pan and sear until browned on both sides, 2-3 minutes.
+2. Remove from burner. Transfer chicken to prepared baking sheet. Rest, 1 minute.
+3. Remove puff pastry from refrigerator. Wrap puff pastry around chicken, cut-side up. Tuck pastry ends under chicken. Chicken will be hot! Use caution.
+4. Roast in hot oven until chicken reaches a minimum internal temperature of 165 degrees, 18-20 minutes.
