@@ -1,4 +1,5 @@
 # Huli Huli Chicken Rice Bowl (6 servings)
+![](https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F20254%2F004529.003.01HuliHuliChickenRiceBowl_Ecomm_1_of_1_.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=a201a7df2524ef75cebd8a19f2c736bc)
 
 ## Ingredients
 | Ingredient | Amount |
